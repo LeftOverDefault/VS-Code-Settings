@@ -1396,6 +1396,7 @@
 	"material-icon-theme.files.associations": {},
 	"material-icon-theme.files.color": "#a7acce",
 	"material-icon-theme.folders.associations": {
+		"dlc": "cart",
 		"entities": "other",
 		"objects": "components",
 		"scenes": "Home",
